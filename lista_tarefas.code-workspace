@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "name": "Backend",
+            "path": "backend",
+            "settings": {
+                "python.defaultInterpreterPath": "C:\\DW_Gabriel\\backend\\.venv\\Scripts\\python.exe"
+            }
+        },
+        {
+            "name": "Frontend",
+            "path": "frontend"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.css": "tailwindcss"
+        },
+        "editor.quickSuggestions": {
+            "strings": "on"
+        }
+    }
+}
